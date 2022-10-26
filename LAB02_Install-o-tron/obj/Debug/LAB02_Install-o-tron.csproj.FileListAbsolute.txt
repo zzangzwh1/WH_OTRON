@@ -1,0 +1,10 @@
+C:\CMPE2300\LAB02_Install-o-tron\LAB02_Install-o-tron\bin\Debug\LAB02_Install-o-tron.exe.config
+C:\CMPE2300\LAB02_Install-o-tron\LAB02_Install-o-tron\bin\Debug\LAB02_Install-o-tron.exe
+C:\CMPE2300\LAB02_Install-o-tron\LAB02_Install-o-tron\bin\Debug\LAB02_Install-o-tron.pdb
+C:\CMPE2300\LAB02_Install-o-tron\LAB02_Install-o-tron\obj\Debug\LAB02_Install-o-tron.csproj.AssemblyReference.cache
+C:\CMPE2300\LAB02_Install-o-tron\LAB02_Install-o-tron\obj\Debug\LAB02_Install_o_tron.Form1.resources
+C:\CMPE2300\LAB02_Install-o-tron\LAB02_Install-o-tron\obj\Debug\LAB02_Install_o_tron.Properties.Resources.resources
+C:\CMPE2300\LAB02_Install-o-tron\LAB02_Install-o-tron\obj\Debug\LAB02_Install-o-tron.csproj.GenerateResource.cache
+C:\CMPE2300\LAB02_Install-o-tron\LAB02_Install-o-tron\obj\Debug\LAB02_Install-o-tron.csproj.CoreCompileInputs.cache
+C:\CMPE2300\LAB02_Install-o-tron\LAB02_Install-o-tron\obj\Debug\LAB02_Install-o-tron.exe
+C:\CMPE2300\LAB02_Install-o-tron\LAB02_Install-o-tron\obj\Debug\LAB02_Install-o-tron.pdb
